@@ -12,7 +12,7 @@ I'm a passionate software developer with a deep love for coding and problem-solv
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indezah&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indezah&theme=dark&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indezah&hide_border=true" />
 </a>
 
 
