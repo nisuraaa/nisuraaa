@@ -15,6 +15,5 @@ I'm a passionate software developer with a deep love for coding and problem-solv
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indezah&layout=compact&langs_count=8&card_width=320" />
 </a>
 ---
-[![](https://visitcount.itsvg.in/api?id=indezah&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
