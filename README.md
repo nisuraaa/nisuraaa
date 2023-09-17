@@ -10,7 +10,7 @@ I'm a passionate software developer with a deep love for coding and problem-solv
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=indezah&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=indezah&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=indezah&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=indezah&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=indezah&icon=0&color=1)](https://visitcount.itsvg.in)
