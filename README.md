@@ -5,7 +5,10 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indezah&layout=compact&langs_count=8&card_width=320&bg_color=0d1117&hide_border=true&text_color=a6c8ff" />
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indezah&hide_border=true&card_width=400&theme=dark&background=0d1117" />
 
+
 </div>
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 <div align='center'>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -15,4 +18,4 @@
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
