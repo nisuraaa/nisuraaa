@@ -1,11 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:002e85,100:007a85&height=210&section=header&text=Nisura%20Indisa&desc=Full%20Stack%20Developer&fontSize=30&descAlignY=50&fontAlignY=30&animation=fadeIn&fontColor=fff">
 
-<div width="100%" align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisuraaa&layout=compact&langs_count=8&card_width=320&bg_color=0d1117&hide_border=true&text_color=a6c8ff" />
-
-</div>
-
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 
