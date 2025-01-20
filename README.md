@@ -3,8 +3,6 @@
 
 <div width="100%" align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisuraaa&layout=compact&langs_count=8&card_width=320&bg_color=0d1117&hide_border=true&text_color=a6c8ff" />
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisuraaa&hide_border=true&card_width=400&theme=dark&background=0d1117" />
-
 
 </div>
 
